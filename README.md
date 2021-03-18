@@ -663,11 +663,21 @@ https://en.m.wikipedia.org/wiki/Gap_buffer
 
 ### 第十六期
 
+#### 2. 神书作者的神课
 
+这是**是不是很酷知识星球**的嘉宾 **@鹏程 大佬**分享的神课。来自剑桥大学的**并发与分布式系统**。
 
+[![cambridge](https://github.com/liuyubobobo/cool-open-sharings/raw/master/016/cambridge.png)](https://github.com/liuyubobobo/cool-open-sharings/blob/master/016/cambridge.png)
 
+之所以说这是神课，是因为这个课程的第二部分：分布式系统，是大名鼎鼎的神书——DDIA，即《数据密集型应用系统设计》的作者 Martin Kleppmann 亲自讲的。
 
+而这本书，豆瓣评分高达 9.9，已经快成为所有后端工程师必看的书籍了。
 
+[![ddia](https://github.com/liuyubobobo/cool-open-sharings/raw/master/016/ddia.png)](https://github.com/liuyubobobo/cool-open-sharings/blob/master/016/ddia.png)
 
-## 【是不是很酷】知识星球#资源分享#
+Martin Kleppmann 现在就在剑桥工作，是工业界回归学术届的一股清流。按照 **@鹏程 大佬**的介绍，这门公开课程的分布式系统部分，经典又基础，不用担心看不懂或者看完没用。
+
+[![ddia2](https://github.com/liuyubobobo/cool-open-sharings/raw/master/016/ddia2.jpg)](https://github.com/liuyubobobo/cool-open-sharings/blob/master/016/ddia2.jpg)
+
+**网址：https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/materials.html**
 
